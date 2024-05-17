@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pc rat\\documents\\unreal projects\\lpv2\\intermediate\\build\\win64\\unrealeditor\\inc\\lpv2\\uht\\lpv2gamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pc rat\\documents\\unreal projects\\lpv2\\intermediate\\build\\win64\\x64\\lpv2editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\pc rat\\documents\\unreal projects\\lpv2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lpv2\\definitions.lpv2.h",
+            "c:\\users\\pc rat\\documents\\unreal projects\\lpv2\\source\\lpv2\\lpv2gamemode.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\pc rat\\documents\\unreal projects\\lpv2\\intermediate\\build\\win64\\unrealeditor\\inc\\lpv2\\uht\\lpv2gamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

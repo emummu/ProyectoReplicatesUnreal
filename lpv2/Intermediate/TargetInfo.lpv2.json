@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "lpv2",
+			"Path": "..\\Source\\lpv2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "lpv2Editor",
+			"Path": "..\\Source\\lpv2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
